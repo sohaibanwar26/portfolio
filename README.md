@@ -21,7 +21,16 @@
 <p align="justify"> UAV should be equipped with an efficient autonomous obstacle avoidance system. 
 In this paper, we are going to introduce an efficient approach for sky segmentation in a cluttered environment that is considered as a vital step for UAV autonomous obstacle avoidance. From experimental results, the proposed sky segmentation approach gives promising results. <p/>
 
+
+
+
 ![Main picture](10870.png)
+
+
+
+
+
+
 
 
 
