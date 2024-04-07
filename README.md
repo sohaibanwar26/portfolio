@@ -20,7 +20,9 @@
 <a href="https://github.com/sohaibanwar26/ScalaCovidApp">View Code</a>
 <p align="justify"> UAV should be equipped with an efficient autonomous obstacle avoidance system. 
 In this paper, we are going to introduce an efficient approach for sky segmentation in a cluttered environment that is considered as a vital step for UAV autonomous obstacle avoidance. From experimental results, the proposed sky segmentation approach gives promising results. <p/>
-<img src="https://github.com/sohaibanwar26/portfolio/blob/main/Untitled%20design.png" alt="Image 2"style="width: 40%; height: 40%;" /> 
+  
+![Main picture](assets/img/5-9302898x11.jpeg)
+
 
 ### [Pain Intensity Estimation Using Facial Expressions](https://github.com/sohaibanwar26/ScalaCovidApp)
 <p align="justify"> UAV should be equipped with an efficient autonomous obstacle avoidance system. 
