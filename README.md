@@ -25,7 +25,6 @@ In this paper, we are going to introduce an efficient approach for sky segmentat
 
 
 
-
 ### Pain Intensity Estimation Using Facial Expressions
 <p align="justify"> UAV should be equipped with an efficient autonomous obstacle avoidance system. 
 In this paper, we are going to introduce an efficient approach for sky segmentation in a cluttered environment that is considered as a vital step for UAV autonomous obstacle avoidance. From experimental results, the proposed sky segmentation approach gives promising results.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
