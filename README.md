@@ -1,3 +1,14 @@
+<h1 align="center">Hi there ! I'm Sohaib <span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></span></h1>
+
+<h3> 👨🏻‍💻 About Me: </h3>
+
+
+  - 🎓 &nbsp; BSc (Hons) Computer Science, Lancaster Univeristy UK.
+  - 💬 &nbsp; Passionate about Interdisciplinary Artificial Intelligence Research 
+  - 🌱 &nbsp;
+  - 🎮 &nbsp; Fun fact: I love playing football and Fifa.  
+
+
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
