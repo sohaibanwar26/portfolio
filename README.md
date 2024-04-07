@@ -20,11 +20,13 @@
 <a href="https://github.com/sohaibanwar26/ScalaCovidApp">View Code</a>
 <p align="justify"> UAV should be equipped with an efficient autonomous obstacle avoidance system. 
 In this paper, we are going to introduce an efficient approach for sky segmentation in a cluttered environment that is considered as a vital step for UAV autonomous obstacle avoidance. From experimental results, the proposed sky segmentation approach gives promising results. <p/>
-  
+
 ![Main picture](assets/img/5-9302898x11.jpeg)
 
 
-### [Pain Intensity Estimation Using Facial Expressions](https://github.com/sohaibanwar26/ScalaCovidApp)
+
+
+### Pain Intensity Estimation Using Facial Expressions
 <p align="justify"> UAV should be equipped with an efficient autonomous obstacle avoidance system. 
 In this paper, we are going to introduce an efficient approach for sky segmentation in a cluttered environment that is considered as a vital step for UAV autonomous obstacle avoidance. From experimental results, the proposed sky segmentation approach gives promising results.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
 <div style="display: flex; justify-content: space-between;"> <img src="image1.jpg"alt="Image 1" style="width: 40%; height: 40%;" /> <img src="https://github.com/sohaibanwar26/portfolio/blob/main/Picture4.png" alt="Image 2"style="width: 50%; height: 50%;" /> </div>
