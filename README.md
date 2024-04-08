@@ -2,13 +2,13 @@
 <h3> 👨🏻‍💻 About Me: </h3>
 
   - 🎓 &nbsp; BSc (Hons) Computer Science, Lancaster Univeristy UK.
-  - 💬 &nbsp; Passionate about Interdisciplinary Artificial Intelligence Research 
-  - 🌱 &nbsp;
+  - 💬 &nbsp; Passionate about Interdisciplinary Research in Artificial Intelligence
+  - 🌱 &nbsp; Currently based in Lahore, Pakistan
   - 🎮 &nbsp; Fun fact: I love playing football and Fifa.  
 
 
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Languages & Frameworks: Python, Java, Scala, Tensorflow, Pytorch, Numpy, OpenCV, pygame, Keras,Pandas,Scikit-learn
 
 ## Projects
 ### Pain Intensity Estimation Using Facial Expressions
