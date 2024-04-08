@@ -19,6 +19,15 @@
 
 Developed a Convolutional Neural Network (CNN) model that can predict pain in subjects using facial expressions. The dataset used for this study was from The UNBC-McMaster Shoulder Pain Expression Archive Database. A facial coding system is used to encode facial expressions into the Prkachin & Solomon Pain Intensity Metric (PSPI score). This proposed architecture was inspired by the VGG16 architecture. The model was evaluated on a set of 200 images and an accuracy of 83% was achieved. It was deployed as a desktop application using the Tkinter library in Python.
 
-![EEG Band Discovery](/assets/img/pspi score.png) 
+![EEG Band Discovery](/assets/img/pspi_2.png) 
+
+### Sky detection Algorithm
+[Code](https://www.mdpi.com/1424-8220/22/8/3048)
+
+Developed a sky detection algorithm that can detect and extract sky regions from any given image. The proposed algorithm is able to work on images with low pixels per intensity (PPI). Preprocessing techniques are first applied to improve image quality and the sky area is extracted through an edge-based detection technique by using a laplacian filter. A side-by-side comparison to the original image and extracted sky region is showed for the user.
+
+![EEG Band Discovery](/assets/img/Untitled_design.png) 
+
+
 
 
