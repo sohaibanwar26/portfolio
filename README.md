@@ -13,11 +13,12 @@
 ## Education
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+### Pain Intensity Estimation Using Facial Expressions
 [Code](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
-![EEG Band Discovery](/assets/img/5-9302898x11.jpeg) ![EEG Band Discovery](/assets/img/5-9302898x11.jpeg) ![EEG Band Discovery](/assets/img/5-9302898x11.jpeg)
+Developed a Convolutional Neural Network (CNN) model that can predict pain in subjects using facial expressions. The dataset used for this study was from The UNBC-McMaster Shoulder Pain Expression Archive Database. A facial coding system is used to encode facial expressions into the Prkachin & Solomon Pain Intensity Metric (PSPI score). This proposed architecture was inspired by the VGG16 architecture. The model was evaluated on a set of 200 images and an accuracy of 83% was achieved. It was deployed as a desktop application using the Tkinter library in Python.
+
+![EEG Band Discovery](/assets/img/pspi score.png) 
 
 
