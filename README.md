@@ -8,7 +8,8 @@
 
 
 
-#### Languages & Frameworks: Python, Java, Scala, Tensorflow, Pytorch, Numpy, OpenCV, pygame, Keras,Pandas,Scikit-learn
+#### Languages & Frameworks: 
+Python, Java, Scala, Tensorflow, Pytorch, Numpy, OpenCV, pygame, Keras, Pandas, Scikit-learn
 
 ## Projects
 ### Pain Intensity Estimation Using Facial Expressions
