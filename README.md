@@ -1,10 +1,10 @@
-<h1 align="center">Hey there! I'm Sohaib <span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></span></h1>
+<h1 align="center">Hi there! I'm Sohaib <span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></span></h1>
 <h3> 👨🏻‍💻 About Me: </h3>
 
   - 🎓 &nbsp; BSc (Hons) Computer Science, Lancaster Univeristy UK.
-  - ✏  &nbsp; Interested in Applied Machine Learning & Deep Learning
+  - ✏ &nbsp; Interested in Applied Machine Learning & Deep Learning
   - 📗 &nbsp; Passionate about Interdisciplinary Research in AI
-  - 💬 &nbsp; Fun fact: The first AI-powered chatbot, [ELIZA](https://web.njit.edu/~ronkowit/eliza.html), first appeared in 1966!  
+  - 💬 &nbsp; Fun fact:The first AI-powered chatbot,[ELIZA](https://web.njit.edu/~ronkowit/eliza.html), first appeared in 1966!  
 
 
 
@@ -30,6 +30,7 @@
 ## Projects
 ### Pain Intensity Estimation Using Facial Expressions
 [View Code](https://github.com/sohaibanwar26/Pain-Intensity-Estimation)
+
 A Convolutional Neural Network (CNN) model that can predict pain in subjects using facial expressions. A facial coding system is used to encode facial expressions into the Prkachin & Solomon Pain Intensity Metric (PSPI score). This proposed architecture was inspired by the VGG16 architecture. The model was evaluated on a set of 200 images and an accuracy of 83% was achieved. It was deployed as a desktop application using the Tkinter library in Python.
 
 ![CNN Model](/assets/img/pspi_2.png) 
@@ -38,7 +39,7 @@ A Convolutional Neural Network (CNN) model that can predict pain in subjects usi
 [View Code](https://github.com/sohaibanwar26/SkyAlgo)
 
 Developed a sky detection algorithm that can detect and extract sky regions from a given image. The proposed algorithm is able to work on images with low pixels per intensity (PPI). Preprocessing techniques are first applied to improve image quality and the sky area is extracted through an edge-based detection technique by using a laplacian filter with an accuracy of 90%.
-+
+
 ![EEG Band Discovery](assets/img/Portolio_1_(1).jpg)
 
 ## SDG Waste Collection Game
