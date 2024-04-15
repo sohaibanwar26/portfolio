@@ -8,7 +8,7 @@
 
 
 
-#### Languages & Frameworks: 
+## Languages & Frameworks: 
 [![python](https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
 ![Static Badge](https://img.shields.io/badge/Scala-Scalafx-blue)
 ![Static Badge](https://img.shields.io/badge/Java-JDK22-blue)
@@ -27,7 +27,7 @@
 
 
 
-## Projects
+# Projects
 ### Pain Intensity Estimation Using Facial Expressions
 [View Code](https://github.com/sohaibanwar26/Pain-Intensity-Estimation)
 
@@ -45,7 +45,7 @@ Developed a sky detection algorithm that can detect and extract sky regions from
 ## SDG Waste Collection Game
 [View Code](https://github.com/sohaibanwar26/SDG_Recycle)
 
-Developed a game using the pygame library as part of Sunway make it challenge 2022 which was aimed at creating awareness for the 17 susitabanle Development Goals. The game educates users about the environment by collecting and filtering trash  into compost and recycle bins using appropriate keys. It keeps track of the points and updates the scores simultaneously.
+Developed a game using the pygame library as part of Sunway make it challenge 2022 which was aimed at creating awareness for the 17 Sustainable Development Goals. The game educates users about the environment by collecting and filtering trash  into compost and recycle bins using appropriate keys. It keeps track of the points and updates the scores simultaneously.
 
 ![EEG Band Discovery](assets/img/game_screen_(1).jpg)
 
