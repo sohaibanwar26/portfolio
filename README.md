@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Sohaib <span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></span></h1>
 <h3> 👨🏻‍💻 About Me: </h3>
 
-  - 🎓 &nbsp; BSc (Hons) Computer Science, Lancaster Univeristy UK.
+  - 🎓 &nbsp; BSc (Hons) Computer Science, Lancaster University UK.
   - ✏ &nbsp; Interested in Applied Machine Learning & Deep Learning
   - 📗 &nbsp; Passionate about Interdisciplinary Research in AI
   - 💬 &nbsp; Fun fact:The first AI-powered chatbot,[ELIZA](https://web.njit.edu/~ronkowit/eliza.html), first appeared in 1966!  
